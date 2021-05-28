@@ -23,4 +23,4 @@ Deskos G., S. Laizet, and R. Palacios. “WInc3D: A novel framework for turbulen
 simulations of wind farm wake interactions”. Wind Energy 23.3 (2020), pp. 779–794.doi:10.1002/we.2458.
 
 ### Support or Contact
-g.deskos14@imperial.ac.uk
+Georgios.Deskos@nrel.gov s.laizet@imperial.ac.uk r.palacios@imperial.ac.uk
